@@ -9,5 +9,6 @@ namespace trainttt
     internal class Car
     {
         x = 1;
+        x = 3;
     }
 }
