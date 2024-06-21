@@ -10,5 +10,6 @@ namespace trainttt
     {
         x = 1;
         x = 3;
+        b = 6;
     }
 }
